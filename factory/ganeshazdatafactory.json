@@ -1,0 +1,9 @@
+{
+	"name": "ganeshazdatafactory",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "c8fb84ca-bf0a-4990-b677-cc728597a51f",
+		"tenantId": "ee2dfc5a-2410-4036-961d-86667ac363d8"
+	}
+}
